@@ -1,7 +1,8 @@
 # Note-Taking App
 
 ## Overview
-A simple note-taking application that allows users to create, read, update, and delete notes. The app includes user authentication, allowing multiple users to have personalized note collections.
+A simple note-taking application to create, read, update, and delete notes. The app includes user authentication, allowing multiple users to have personalized note collections.
+First try of intergrating the front-end and back-end for note-taking app. 
 
 ## Installation
 1. Create the Project Directory
